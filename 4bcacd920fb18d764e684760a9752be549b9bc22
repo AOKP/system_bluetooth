@@ -1,0 +1,8 @@
+Change-Id: I4bcacd920fb18d764e684760a9752be549b9bc22
+Code-Review+2: Jonathan Steadman <xxwhitehawk@gmail.com>
+Verified+1: Jonathan Steadman <xxwhitehawk@gmail.com>
+Submitted-by: Jonathan Steadman <xxwhitehawk@gmail.com>
+Submitted-at: Sun, 12 Aug 2012 09:18:36 +0100
+Reviewed-on: http://gerrit.sudoservers.com/2575
+Project: AOKP/system_bluetooth
+Branch: refs/heads/jb
